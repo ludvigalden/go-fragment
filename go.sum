@@ -1,0 +1,4 @@
+github.com/fatih/structtag v1.2.0 h1:/OdNE99OxoI/PqaW/SuSK9uxxT3f/tcSZgon/ssNSx4=
+github.com/fatih/structtag v1.2.0/go.mod h1:mBJUNpUnHmRKrKlQQlmCrh5PuhftFbNv8Ys4/aAZl94=
+github.com/ludvigalden/go-typemeta v1.0.0 h1:EtaMjYhFXgWgyHOp5Oke1pjI36f4oZwPWXhBPEH3+ww=
+github.com/ludvigalden/go-typemeta v1.0.0/go.mod h1:KhtB5ZC2tEWEiRRG7zham+OPMlbXRjyu5SOgCngJt6Q=
